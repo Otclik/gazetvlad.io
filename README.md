@@ -1,2 +1,2 @@
-# gazetvlad.io
+# otclik.github.io
 MyWebPage
