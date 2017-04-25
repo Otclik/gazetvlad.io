@@ -1,2 +1,2 @@
-# otclik.github.io
+# gazeta-vlad.tk
 MyWebPage
