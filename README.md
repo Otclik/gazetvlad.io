@@ -1,0 +1,2 @@
+# gazetvlad.io
+MyWebPage
