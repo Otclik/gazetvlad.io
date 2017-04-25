@@ -12,8 +12,8 @@ User-agent: *
 Crawl-delay: 30
 Disallow: /admin
 Disallow: /img
-Host: http://vlad-gazeta.tk/army.html
+Host: http://vlad-gazeta.tk
 
-Sitemap: http://vlad-gazeta.tk/army.html/sitemap.xml
+Sitemap: http://vlad-gazeta.tk/sitemap.xml
 
 
