@@ -12,7 +12,7 @@ User-agent: *
 Crawl-delay: 30
 Disallow: /admin
 Disallow: /img
-Host: robotstxt.org.ru
+Host: http://vlad-gazeta.tk/army.html
 
 Sitemap: http://robotstxt.org.ru/sitemap.xml
 
